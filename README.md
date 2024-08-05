@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nithyasj
-- 👀 I’m interested in full-stack software development, app development, and Computer Science education research.
+- 👀 I’m interested in full-stack software development, user interface design, and Computer Science education research.
 - 🌱 I’m currently working on learning new frameworks and improving my mobile app development skills.
 - 📫 You can reach me through email: nithyasj123@gmail.com!
 - ⚡ Fun fact: I'm doing an art minor to add a creative touch to my technical degree.
